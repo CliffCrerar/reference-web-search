@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+		
+	],
+	"settings": {
+		"editor.formatOnSave": false,
+		"git.ignoreLimitWarning": true
+	}
+}

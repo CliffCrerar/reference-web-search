@@ -1,0 +1,29 @@
+{
+	"name": "reference-finder",
+	"version": "0.5.0",
+	"description": "A simple lit-html starter project.",
+	"main": "index.html",
+	"scripts": {
+		"start": "parcel index.html --open",
+		"build": "parcel build index.html"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/CliffCrerar/reference-web-search.git"
+	},
+	"keywords": [
+		"lit-html"
+	],
+	"author": "Cliff Crerar (info@infinityarc.net)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/CliffCrerar/reference-web-search/issues"
+	},
+	"homepage": "https://github.com/CliffCrerar/reference-web-search#readme",
+	"dependencies": {
+		"lit-html": "^1.1.2"
+	},
+	"devDependencies": {
+		"typescript": "^3.7.2"
+	}
+}

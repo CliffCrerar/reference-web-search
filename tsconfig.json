@@ -1,0 +1,20 @@
+{
+	"compilerOptions": {
+		"target": "esnext",
+		"module": "esnext",
+		"lib": [
+			"es2017",
+			"dom"
+		],
+		"sourceMap": true,
+		"allowJs": true,
+		"rootDir": "./",
+		"outDir": "./lib",
+		"moduleResolution": "node",
+		"experimentalDecorators": true,
+		"parcel-plugin-typescript": {
+			// If true type-checking is disabled
+			"transpileOnly": true
+		}
+	}
+}

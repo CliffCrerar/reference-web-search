@@ -21,7 +21,11 @@
 	},
 	"homepage": "https://github.com/CliffCrerar/reference-web-search#readme",
 	"dependencies": {
-		"lit-html": "^1.1.2"
+		"@types/node": "^12.12.8",
+		"bootstrap": "^4.3.1",
+		"jquery": "^3.4.1",
+		"lit-html": "^1.1.2",
+		"popper.js": "^1.16.0"
 	},
 	"devDependencies": {
 		"typescript": "^3.7.2"

@@ -12,9 +12,8 @@
 		"outDir": "./lib",
 		"moduleResolution": "node",
 		"experimentalDecorators": true,
-		"parcel-plugin-typescript": {
-			// If true type-checking is disabled
-			"transpileOnly": true
-		}
+		"typeRoots": [
+			"node_modules/@types"
+		]
 	}
 }

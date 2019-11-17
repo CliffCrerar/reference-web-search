@@ -7,6 +7,22 @@
 	],
 	"settings": {
 		"editor.formatOnSave": false,
-		"git.ignoreLimitWarning": true
+		"git.ignoreLimitWarning": true,
+		"eslint.alwaysShowStatus": true,
+		"eslint.codeAction.showDocumentation": {
+			"enable": true
+		},
+		"eslint.enable": true,
+		"eslint.lintTask.enable": true,
+		"eslint.nodePath": "./",
+		"eslint.packageManager": "npm",
+		"eslint.run": "onType",
+		"eslint.validate": [
+			"javascript",
+			"javascriptreact"
+		],
+		"tslint.jsEnable": false,
+		"tslint.packageManager": "npm",
+		"tslint.configFile": "./"
 	}
 }
